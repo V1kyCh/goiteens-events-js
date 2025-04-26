@@ -2,7 +2,7 @@
   "name": "goiteens-events-js",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://v1kych.github.io/class-component-counter-practice/",
+  "homepage": "https://v1kych.github.io/goiteens-events-js/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
